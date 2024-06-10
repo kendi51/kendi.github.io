@@ -47,6 +47,9 @@ body {
 .text-yellow {
   color: #ffc107;
 }
+.text-red {
+  color: #dc3545;
+}
 .ubuntu-font {
   font-family: "Ubuntu Sans Mono", monospace;
   font-optical-sizing: auto;
