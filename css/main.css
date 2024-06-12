@@ -37,6 +37,7 @@ body {
   font-weight: 500;
   font-style: normal;
   text-transform: uppercase;
+  letter-spacing: 1.2vw;
 }
 .hero_con {
   padding: 2vw 30px 2vw 30px;
