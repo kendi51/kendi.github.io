@@ -30,7 +30,7 @@ body {
   padding: 18px;
 }
 .heading {
-  color: #ffc107;
+  color: var(--ke-black);
   font-size: 45px;
   font-family: "Ubuntu Sans Mono", monospace;
   font-optical-sizing: auto;
